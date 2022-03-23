@@ -1,0 +1,12 @@
+
+module fullsub_2(sum,cout,a,b,cin);
+output sum,cout;
+input a,b,cin;
+wire s1,s2,s3;
+not(ainv,a);
+and(s1,ainv,b);
+and(s2,ainv,cin);
+and(s3,b,cin);
+or(cout,s1,s2,s3);
+xor(sum,a,b,cin);
+endmodule
