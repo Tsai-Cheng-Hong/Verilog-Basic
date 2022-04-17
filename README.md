@@ -8,7 +8,7 @@ My code when I first time to learn Verilog
 下載連結:https://drive.google.com/drive/folders/1Tk2_Po829u2PihHLbbBp3ci4Kf72jU4X?usp=sharing
 
 ------------------------------------------------------------------------
-# Project Completion
+# 專案名稱 Project Completion
 20180327 - Half Adder & Full Sub、Multiplier
 
 20180403 - Assign Adder & Assign Multiplier & 2*1 Multiplexer & 1*4 Multiplexer & Full Adder
@@ -29,4 +29,82 @@ My code when I first time to learn Verilog
 
 20180612 - Detector & x^7+x^3+x+1 & Marquee
 
----------------------------------
+------------------------------------------------------------------------
+# 延伸閱讀 Read-Around
+# Verilog-Normal:
+
+OR & NOR gate-Layout & schematic 
+
+RPA & CLA-Spice 
+
+Shortest Path Faster Algorithm (SPFA)-Verilog
+
+Square root-Verilog
+
+https://github.com/Tsai-Cheng-Hong/Verilog-Normal
+
+------------------------------------------------------------------------
+# Verilog-Advanced:
+4-bits Booth Multiplier (4bits布斯乘法器)
+
+Skyline
+
+Incenter of a Triangle
+
+Kmeans Clustering Algorithm
+
+https://github.com/Tsai-Cheng-Hong/Verilog-Advanced
+
+------------------------------------------------------------------------
+# IEEE 754 Standard(64-bits Floating point multiplication)
+完成階段:Post-Layout
+
+https://github.com/Tsai-Cheng-Hong/IEEE-754-Standard-64-bits-Floating-point-multiplication-#ieee-754-standard-64-bits-floating-point-multiplication-
+
+------------------------------------------------------------------------
+# Verilog-ADPLL
+完成階段:Synthesis
+
+https://github.com/Tsai-Cheng-Hong/Verilog-ADPLL
+
+------------------------------------------------------------------------
+# Verilog-TSRI(CIC)-Lab
+Lab01-FA
+
+Lab02-MUX
+
+Lab03-ALU
+
+Lab04-Modeling Delay
+
+Lab05-Testbench of ALU
+
+Lab06-Memory
+
+Lab07-FSM
+
+Lab08-Sequence Controller
+
+https://github.com/Tsai-Cheng-Hong/Verilog-TSRI_Lab
+
+------------------------------------------------------------------------
+# FPGA-Based-System-Design
+專題1自動上下數 Auto Counter
+
+專題2手動上下數 Switch Counter
+
+專題3霹靂燈 Marquee
+
+專題4移動蛇 Snake Light
+
+專題5紅綠燈 Traffic Light
+
+專題6亂數產生器 Random
+
+專題7密碼鎖 Combination Lock
+
+專題8電子琴 Buzzer
+
+專題9萬年曆 Perpetual Calendar
+
+https://github.com/Tsai-Cheng-Hong/FPGA-Based-System-Design
