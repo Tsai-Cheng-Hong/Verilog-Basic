@@ -108,3 +108,21 @@ https://github.com/Tsai-Cheng-Hong/Verilog-TSRI_Lab
 專題9萬年曆 Perpetual Calendar
 
 https://github.com/Tsai-Cheng-Hong/FPGA-Based-System-Design
+
+------------------------------------------------------------------------
+# Transmission-System-Circuit-Design-and-Simulation
+E2Frame Format 
+
+DS3 Signal Format G.752
+
+https://github.com/Tsai-Cheng-Hong/Transmission-System-Circuit-Design-and-Simulation
+
+------------------------------------------------------------------------
+# Communication-Network-Integrated-Circuit-Design
+https://github.com/Tsai-Cheng-Hong/Communication-Network-Integrated-Circuit-Design
+
+------------------------------------------------------------------------
+# Undergraduate senior project : PWM-power-Regulator-smart-air-purifier
+
+https://github.com/Tsai-Cheng-Hong/Undergraduate-senior-project_PWM-power-Regulator-smart-air-purifier
+
