@@ -58,12 +58,14 @@ https://github.com/Tsai-Cheng-Hong/Verilog-Advanced
 ------------------------------------------------------------------------
 # IEEE 754 Standard(64-bits Floating point multiplication)
 完成階段:Post-Layout
+![image](https://user-images.githubusercontent.com/64843338/163710361-a4a93d62-96b6-4035-92c6-b38395f956e9.png)
 
 https://github.com/Tsai-Cheng-Hong/IEEE-754-Standard-64-bits-Floating-point-multiplication-#ieee-754-standard-64-bits-floating-point-multiplication-
 
 ------------------------------------------------------------------------
 # Verilog-ADPLL
 完成階段:Synthesis
+![image](https://user-images.githubusercontent.com/64843338/163710354-7e092efc-7f58-4bc0-a020-49e2c4188705.png)
 
 https://github.com/Tsai-Cheng-Hong/Verilog-ADPLL
 
@@ -123,6 +125,7 @@ https://github.com/Tsai-Cheng-Hong/Communication-Network-Integrated-Circuit-Desi
 
 ------------------------------------------------------------------------
 # Undergraduate senior project : PWM-power-Regulator-smart-air-purifier
+![image](https://user-images.githubusercontent.com/64843338/163710372-dfe51c12-0147-4f44-90d3-60a1f15ad5f7.png)
 
 https://github.com/Tsai-Cheng-Hong/Undergraduate-senior-project_PWM-power-Regulator-smart-air-purifier
 
