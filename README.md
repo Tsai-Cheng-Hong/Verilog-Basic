@@ -29,6 +29,8 @@ My code when I first time to learn Verilog
 
 20180612 - Detector & x^7+x^3+x+1 & Marquee
 
+https://github.com/Tsai-Cheng-Hong/Verilog-Basic
+
 ------------------------------------------------------------------------
 # 延伸閱讀 Read-Around
 # Verilog-Normal:
