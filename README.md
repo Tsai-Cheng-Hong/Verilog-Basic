@@ -71,6 +71,8 @@ https://github.com/Tsai-Cheng-Hong/Verilog-ADPLL
 
 ------------------------------------------------------------------------
 # Verilog-TSRI(CIC)-Lab
+![image](https://user-images.githubusercontent.com/64843338/163716714-2537e798-eb5e-41e9-91f8-99a5c5a8033c.png)
+
 Lab01-FA
 
 Lab02-MUX
@@ -91,6 +93,8 @@ https://github.com/Tsai-Cheng-Hong/Verilog-TSRI_Lab
 
 ------------------------------------------------------------------------
 # FPGA-Based-System-Design
+![image](https://user-images.githubusercontent.com/64843338/163716731-8a25f75b-3d49-4e7e-b304-cff5a26e0491.png)
+
 專題1自動上下數 Auto Counter
 
 專題2手動上下數 Switch Counter
